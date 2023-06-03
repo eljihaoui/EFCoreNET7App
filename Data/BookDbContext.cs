@@ -15,7 +15,10 @@ namespace bookapp.Data
         }
 
         public DbSet<Book> Book { get; set; }
-
+        public DbSet<Author> Author { get; set; }
+        public DbSet<Review> Review { get; set; }
+        public DbSet<BookAuthor> BookAuthor { get; set; }
+        public DbSet<PriceOffer> PriceOffer { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             // modelBuilder.ApplyConfiguration(new BookEntityTypeConfig());

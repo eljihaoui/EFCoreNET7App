@@ -1,0 +1,21 @@
+BookId;Title;Description;PublishedOn;ISBN;Publisher;Price
+1;Collision Repair I;Collision Repair I;2022;978-1-323-00001-1;Modern Printing;75.00
+2;Collision Repair II;Collision Repair II;2020;978-1-323-00002-1;Modern Printing;60.00
+3;Refinishing I;Refinishing I;2022;978-1-323-00003-1;Modern Printing;50.00
+4;Refinishing II;Refinishing II;2020;978-1-323-00004-1;Modern Printing;80.00
+5;Motorsports Chassis Frabrication I;Motorsports Chassis Frabrication I;2020;978-1-323-39626-1;Pearson Publishing;69.40
+6;Motorsports Chassis Fabrication II;Motorsports Chassis Fabrication II;2020;978-1-323-39627-8;Pearson Publishing;76.40
+7;Basic Street Rod;Basic Street Rod;2021;978-1-323-00005-1;Kinkos;136.15
+8;Advanced Street Rod;Advanced Street Rod;2022;978-1-323-00006-1;Kinkos;73.05
+9;Custom Paint Book;Custom Paint Book;2020;978-1-323-00007-1;Kinkos;128.57
+10;Trim and Upholstery I;Trim and Upholstery I;2021;978-1-323-00008-1;Custom Print;156.50
+11;Trim and Upholstery II;Trim and Upholstery II;2021;978-1-323-00009-1;Custom Print;108.09
+12;Accounting and Financial Management;Accounting and Financial Management;2020;978-0-134-70985-1;Prentice Hall;166.65
+13;Computers and Business Applications;Computers and Business Applications;2021;978-0-134-70985-2;Prentice Hall;166.65
+14;Communications;Communications;2021;978-0-134-70985-3;Prentice Hall;166.65
+15;Management Concepts;Management Concepts;2020;978-0-134-70985-4;Prentice Hall;166.65
+16;Human Resources Management;Human Resources Management;2021;978-0-134-70985-5;Prentice Hall;166.65
+17;Shop Management;Shop Management;2021;978-0-134-70985-6;Prentice Hall;166.65
+18;Basic Engine Management Systems;Basic Engine Management Systems;2020;978-1-133-61231-5;Cengage Learning;149.95
+19;Drivability Diagnostics;Drivability Diagnostics;2022;978-1-133-61231-6;Cengage Learning;149.95
+20;Drivetrain Systems;Drivetrain Systems;2020;978-1-133-61231-7;Cengage Learning;149.95

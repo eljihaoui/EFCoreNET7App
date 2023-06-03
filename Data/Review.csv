@@ -1,0 +1,73 @@
+ReviewId;VoterName;Rating;Comment;BookId
+1;Abdellah;6;Not bad;3
+2;Abdellah;6;Not bad;18
+3;Abdellah;3;bad;19
+4;Abdellah;3;bad;20
+5;Ali;8;good;2
+6;Ali;4;bad;17
+7;Ali;4;bad;18
+8;Ali;8;good;19
+9;Halima;6;average;8
+10;Halima;6;average;13
+11;Halima;5;average;15
+12;Kamal;5;;3
+13;Kamal;5;;4
+14;Kamal;5;average;5
+15;Kamal;3;bad;6
+16;Kamal;5;;10
+17;Kamal;5;;11
+18;Kamal;3;bad;15
+19;Kamal;5;average;16
+20;Karim;8;good;1
+21;Karim;5;average;6
+22;Karim;5;average;9
+23;Karim;8;good;20
+24;Laila;8;;7
+25;Laila;5;average;13
+26;Laila;8;;14
+27;Laila;5;average;16
+28;Mohamed;9;Nice  Book;1
+29;Mohamed;6;average;2
+30;Mohamed;5;;4
+31;Mohamed;5;average;5
+32;Mohamed;5;average;7
+33;Mohamed;7;average;10
+34;Mohamed;4;bad;11
+35;Mohamed;5;average;12
+36;Mohamed;5;average;14
+37;Mohamed;5;;17
+38;Mohamed;6;Not bad;19
+39;Mohamed;9;Nice  Book;20
+40;Patrice;8;good;2
+41;Patrice;8;good;3
+42;Patrice;8;good;7
+43;Patrice;8;good;12
+44;Patrice;7;average;17
+45;Patrice;8;good;18
+46;Patrice;8;good;19
+47;Sabiri;5;;9
+48;Sabiri;8;good;11
+49;Sabiri;5;;12
+50;Sabiri;8;good;16
+51;Slimani;5;average;4
+52;Slimani;5;average;7
+53;Slimani;8;;8
+54;Slimani;8;good;9
+55;Slimani;8;good;10
+56;Slimani;8;;13
+57;Slimani;5;average;14
+58;Slimani;5;average;17
+59;Yassine;5;average;8
+60;Yassine;5;average;13
+61;Yassine;8;good;14
+62;Yassine;8;good;15
+63;Zineb;9;Nice  Book;3
+64;Zineb;9;good;4
+65;Zineb;9;Nice  Book;5
+66;Zineb;5;average;6
+67;Zineb;5;average;15
+68;Zineb;10;good;16
+69;Ziyad;10;good;1
+70;Ziyad;10;good;2
+71;Ziyad;9;good;9
+72;Ziyad;9;good;12

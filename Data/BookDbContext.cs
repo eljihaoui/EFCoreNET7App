@@ -1,7 +1,6 @@
 
 using System.Reflection;
 using bookapp.Models;
-using BookApp.EntityConfig;
 using BookApp.Helpers;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,7 +10,10 @@ namespace bookapp.Data
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=.\SQLEXPRESS;Database=BookApp;Trusted_Connection=True;Encrypt=False;");
+            //optionsBuilder.UseSqlServer(@"Server=.\SQLEXPRESS;Database=BookApp;Trusted_Connection=True;Encrypt=False;");
+            string mySqlcon ="Server=localhost;Database=BookApp;User=root;Password=Med@2023;";
+            MySqlServerVersion mysqlVersion = new(new Version(8, 0, 33));
+            optionsBuilder.UseMySql(mySqlcon,mysqlVersion);
         }
 
         public DbSet<Book> Book { get; set; }

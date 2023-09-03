@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": false,
+                "encrypt": false,
+                "instanceName": ".\\sqlexpress"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "SQL Server BookApp",
+            "database": "BookApp",
+            "username": "user123",
+            "password": "Med@2023"
+        }
+    ]
+}
